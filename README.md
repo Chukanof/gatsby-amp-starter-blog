@@ -1,6 +1,6 @@
 # gatsby-amp-starter-blog
 
-A gatsby starter for creating an AMP compliant blog.
+A gatsby v0 starter for creating an AMP compliant blog. This is not compatible with Gatbsy v1
 
 Not sure what Amp is? Learn about [Project AMP](https://www.ampproject.org).
 
